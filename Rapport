@@ -1,1 +1,49 @@
 
+# Projet Pluridisciplinaire ~ ABM : Altruism / Agent-Based Modeling
+
+*🇫🇷 Le texte en français se trouve dans la seconde moitié de ce document.*
+*🇬🇧 The English text is located in the first half of this document.*
+
+---
+
+## 🇬🇧 English Version
+
+### Overview
+This project features an Agent-Based Model (ABM) developed with NetLogo. It simulates population dynamics and interactions between three distinct behavioral profiles: **Altruists**, **Egoists**, and **Basics**. The agents explore their environment (using Lévy flight movement), consume food stocks to gain energy, and reproduce. The model also features an **Epidemic** mode to study disease transmission and recovery within these populations.
+
+### Repository Contents
+*   **The Model:** `Projet_pluri_ABM (2).nlogox` - The core NetLogo simulation file.
+*   **Project Report:** A detailed document containing our methodology, data analysis, and conclusions.
+*   **Defense Slides:** The presentation slides used during the final project defense.
+
+### How to Run and Test the Simulation
+You do not need to download or install the NetLogo desktop application to try this project. You can run it entirely in your web browser!
+
+1. Go to [NetLogo Web](https://www.netlogoweb.org/).
+2. On the website, look for the option to **Upload a Model** (usually a folder icon or a dedicated button).
+3. Select and upload the `Projet_pluri_ABM (2).nlogox` file from your local machine.
+4. Once the interface loads, click the **setup** button to initialize the simulation world.
+5. Click **go** to start the simulation. 
+6. *Tip:* Feel free to play with the sliders to adjust population sizes, energy parameters, or switch between "Classique" (Classic) and "Épidémie" (Epidemic) modes.
+
+---
+
+## 🇫🇷 Version Française
+
+### Présentation
+Ce projet s'articule autour d'un Modèle Basé sur les Agents (ABM) développé sur NetLogo. Il simule les dynamiques de population et les interactions entre trois profils comportementaux distincts : les **Altruistes**, les **Égoïstes** et les **Basiques**. Les agents explorent leur environnement (via un mouvement de Lévy), consomment des stocks de nourriture pour accumuler de l'énergie, et se reproduisent. Le modèle intègre également un mode **Épidémie** permettant d'étudier la transmission d'une maladie et la guérison au sein de ces populations.
+
+### Contenu du Projet
+*   **Le Modèle :** `Projet_pluri_ABM (2).nlogox` - Le fichier principal contenant le code de la simulation NetLogo.
+*   **Rapport de Projet :** Un document détaillé présentant notre méthodologie, l'analyse des données et nos conclusions.
+*   **Slides de Soutenance :** Le diaporama de présentation utilisé lors de la soutenance finale du projet.
+
+### Comment Tester la Simulation
+Il n'est pas nécessaire d'installer le logiciel NetLogo sur votre ordinateur pour tester ce projet. Vous pouvez l'exécuter directement et facilement depuis votre navigateur web !
+
+1. Rendez-vous sur la plateforme [NetLogo Web](https://www.netlogoweb.org/).
+2. Sur le site, cherchez l'option pour importer un modèle (**Upload a Model**).
+3. Sélectionnez le fichier `Projet_pluri_ABM (2).nlogox` sur votre ordinateur pour l'importer.
+4. Une fois l'interface chargée, cliquez sur le bouton **setup** pour initialiser l'environnement de la simulation.
+5. Cliquez ensuite sur le bouton **go** pour lancer le modèle.
+6. *Astuce :* N'hésitez pas à modifier les paramètres à l'aide des curseurs pour ajuster la taille des populations, les coûts en énergie, ou pour basculer entre le mode "Classique" et le mode "Épidémie".
